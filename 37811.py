@@ -21,8 +21,8 @@ target = sys.argv[1]
 arg = sys.argv[2]
 
 # Config
-username = 'faceless'
-password = 'faceless'
+username = ''  #Change this
+password = '' #Change this
 php_function = 'exec'
 install_date = 'Wed, 08 May 2019 07:23:09 +0000'  # This needs to match /app/etc/local.xml
 
